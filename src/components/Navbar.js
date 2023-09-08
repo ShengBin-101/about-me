@@ -1,4 +1,4 @@
-/ src/components/Navbar.js
+// src/components/Navbar.js
 
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
